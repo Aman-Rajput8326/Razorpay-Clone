@@ -1,24 +1,5 @@
 {
-  "name": "tailwind_demo",
-  "homepage": "https://extrawork45-18.github.io/RazorpayClone/",
-  "version": "1.0.0",
-  "description": "Tailwind",
-  "main": "index.js",
-  "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "vite": "^5.2.11"
-  },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "gh-pages": "^6.2.0",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3"
+    "tailwindcss": "^3.4.17"
   }
 }
